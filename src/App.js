@@ -10,7 +10,7 @@ const App = () => {
   const [weather, setWeather] = useState(null);
   const [error, setError] = useState("");
 
-  const apiKey = "557f0754d36441329ca4539b4de8ab36";
+  const apiKey = ;
   const apiUrl = "https://api.openweathermap.org/data/2.5/weather";
 
   const link = document.createElement("link");
